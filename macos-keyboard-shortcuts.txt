@@ -1,0 +1,26 @@
+Mac OS
+------
+cmd shift ` -> cycle between windows of same app
+
+Finder
+------
+option right click folder or file to copy path
+cmd shift g -> go to path
+cmd shift . -> see hidden files
+cmd j -> save folder view mode
+
+Text editor
+-----------
+fn backspace -> remove character after cursor
+cmd left -> move cursor to beginning of line
+cmd right -> move cursor to end of line
+cmd backspace -> remove everything on this line before cursor
+cmd fn backspace -> remove everything on this line after cursor
+cmd shift left -> select everything on this line left of cursor
+cmd shift right -> select everything on this line right of cursor
+option left -> move cursor to beginning of word
+option right -> move cursor to end of word
+option backspace -> remove previous word
+option fn backspace -> remove next word
+option shift left -> select word left of cursor
+option shift right -> select word right of cursor
